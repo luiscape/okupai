@@ -1,0 +1,9 @@
+public class Page_deputado_profile{
+  public String 
+
+  public Page_politico_profile(int id_deputado){
+    this.id_partido = id_partido;
+    this.nome = nome;
+    this.sigla = sigla;
+  }
+}

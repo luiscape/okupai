@@ -1,0 +1,13 @@
+section{
+display:inline-block;
+}
+.politicoblock{
+  display:inline-block;
+  //width:200px;
+  margin:5px;
+  padding:1px;
+  text-align:center;
+  border:1px solid #999989;
+  background: #f5f5dc;
+  font-size:12px;
+}
